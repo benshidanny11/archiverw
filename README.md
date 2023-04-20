@@ -3,7 +3,10 @@
 ### Steps to setup the project in local machine
 
 
-1. Download the project by clicking on download button on this page.
+1. Download the project by clicking on download button on this page by clicking on Code then choose download.
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/45577181/233340899-e0118468-c1e3-417a-b02b-38d6f954a6d3.png">
+
 
 2. Extaract the project from zip to normal folder and copy it.
 
