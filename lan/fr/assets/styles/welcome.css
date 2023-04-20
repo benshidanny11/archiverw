@@ -1,0 +1,28 @@
+body {
+  background-image: url("./../img/backimg.jpg");
+  background-size: cover;
+}
+
+.container-welcome {
+  position: absolute;
+  bottom: 0.5rem;
+  padding: 1.3rem 4rem 1.3rem 4rem;
+}
+
+.card {
+  background-color: rgba(245, 245, 245, 0);
+  border:none;
+}
+
+.card-header {
+  opacity: 1;
+  border-bottom: none;
+}
+
+.card-title {
+    color:#24507c;
+}
+
+.list-container {
+  list-style-type: none !important;
+}
